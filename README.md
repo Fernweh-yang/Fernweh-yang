@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋,I'm Yang.
+
+---
+- 🔭 I’m currently studying Mechatronic and Robotics at TUM
+- 🌱 I’m currently learning computer vision, machine learning, deep learning and Slam.
 
 <!--
 **Fernweh-yang/Fernweh-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
